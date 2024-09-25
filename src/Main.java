@@ -17,7 +17,7 @@ System.out.println("IMDb Rating:"+imdbRating);
 System.out.println("Director's Last Name Initial:"+directorInitial);
 }
 
-String[] movieNames = {"Seven Pounds", "Interstellar", "Inception"};
+String[] movieNames = {"Seven Pounds", "Interstellar", "Shutter Island"};
 int[] movieYears = {2008, 2009, 2010}
 String[] favoriteGenres = {"Psychological Horror", "Comedy", "Animated"};
 }
